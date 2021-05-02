@@ -3,11 +3,11 @@ function Sobre() {
 
     return <div>
         <h1>Home</h1>
-         <Link href="/index">
+         <Link href="/">
            <a>Acessar página Home</a>
           </Link>         
         
         </div>
 }
 
-export default Home
+export default Sobre
